@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConvertorApp", "TemperatureConvertorApp\TemperatureConvertorApp.csproj", "{24E9DE18-D7BB-414D-8836-361397E7A6D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureReflection", "TemperatureReflection\TemperatureReflection.csproj", "{37FEDCC3-63F7-45B0-A7EA-D878808EB690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectorApp", "ReflectorApp\ReflectorApp.csproj", "{46757C4D-7C35-4919-930A-A9CF4F4DD382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E9DE18-D7BB-414D-8836-361397E7A6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E9DE18-D7BB-414D-8836-361397E7A6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E9DE18-D7BB-414D-8836-361397E7A6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E9DE18-D7BB-414D-8836-361397E7A6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FEDCC3-63F7-45B0-A7EA-D878808EB690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FEDCC3-63F7-45B0-A7EA-D878808EB690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FEDCC3-63F7-45B0-A7EA-D878808EB690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FEDCC3-63F7-45B0-A7EA-D878808EB690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46757C4D-7C35-4919-930A-A9CF4F4DD382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46757C4D-7C35-4919-930A-A9CF4F4DD382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46757C4D-7C35-4919-930A-A9CF4F4DD382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46757C4D-7C35-4919-930A-A9CF4F4DD382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
